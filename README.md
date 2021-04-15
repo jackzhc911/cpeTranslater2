@@ -1,5 +1,5 @@
 # cpeTranslater2
-用於將軟體名稱轉換成CPE格式的值。
+用於將軟體名稱轉換成CPE(Common Platform Enumeration)格式的值。
 
 為了節省人工比對的時間，做了一個可以自動比對的小工具。
     
